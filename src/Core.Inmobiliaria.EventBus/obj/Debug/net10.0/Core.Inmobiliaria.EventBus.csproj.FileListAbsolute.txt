@@ -1,0 +1,11 @@
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\bin\Debug\net10.0\Core.Inmobiliaria.EventBus.deps.json
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\bin\Debug\net10.0\Core.Inmobiliaria.EventBus.dll
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\bin\Debug\net10.0\Core.Inmobiliaria.EventBus.pdb
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\Core.Inmobiliaria.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\Core.Inmobiliaria.EventBus.AssemblyInfoInputs.cache
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\Core.Inmobiliaria.EventBus.AssemblyInfo.cs
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\Core.Inmobiliaria.EventBus.csproj.CoreCompileInputs.cache
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\Core.Inmobiliaria.EventBus.dll
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\refint\Core.Inmobiliaria.EventBus.dll
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\Core.Inmobiliaria.EventBus.pdb
+H:\ProyectosComp\Proyeto Inmobiliaria\src\Core.Inmobiliaria.EventBus\obj\Debug\net10.0\ref\Core.Inmobiliaria.EventBus.dll
