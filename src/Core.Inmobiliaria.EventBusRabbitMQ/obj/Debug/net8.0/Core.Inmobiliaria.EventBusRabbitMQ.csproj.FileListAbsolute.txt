@@ -1,0 +1,16 @@
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.csproj.AssemblyReference.cache
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.AssemblyInfoInputs.cache
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.AssemblyInfo.cs
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.sourcelink.json
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\bin\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.deps.json
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\bin\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\bin\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.pdb
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\bin\Debug\net8.0\Core.Inmobiliaria.EventBus.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\bin\Debug\net8.0\Core.Inmobiliaria.EventBus.pdb
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inm.FCAC2E27.Up2Date
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\refint\Core.Inmobiliaria.EventBusRabbitMQ.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\Core.Inmobiliaria.EventBusRabbitMQ.pdb
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.EventBusRabbitMQ\obj\Debug\net8.0\ref\Core.Inmobiliaria.EventBusRabbitMQ.dll

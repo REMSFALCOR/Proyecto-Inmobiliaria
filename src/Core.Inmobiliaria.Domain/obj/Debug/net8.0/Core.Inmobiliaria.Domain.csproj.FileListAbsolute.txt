@@ -1,0 +1,13 @@
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\bin\Debug\net8.0\Core.Inmobiliaria.Domain.deps.json
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\bin\Debug\net8.0\Core.Inmobiliaria.Domain.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\bin\Debug\net8.0\Core.Inmobiliaria.Domain.pdb
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.csproj.AssemblyReference.cache
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.AssemblyInfoInputs.cache
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.AssemblyInfo.cs
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.csproj.CoreCompileInputs.cache
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.sourcelink.json
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\refint\Core.Inmobiliaria.Domain.dll
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\Core.Inmobiliaria.Domain.pdb
+H:\ProyectosComp\Proyecto Inmobiliaria\src\Core.Inmobiliaria.Domain\obj\Debug\net8.0\ref\Core.Inmobiliaria.Domain.dll

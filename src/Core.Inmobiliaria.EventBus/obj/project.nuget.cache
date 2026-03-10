@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RtGRAQhG+yw=",
+  "dgSpecHash": "h8b5YQpyZpM=",
   "success": true,
-  "projectFilePath": "H:\\ProyectosComp\\Proyeto Inmobiliaria\\src\\Core.Inmobiliaria.EventBus\\Core.Inmobiliaria.EventBus.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\ProyectosComp\\Proyecto Inmobiliaria\\src\\Core.Inmobiliaria.EventBus\\Core.Inmobiliaria.EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\REMS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\REMS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\REMS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
